@@ -1,0 +1,19 @@
+1.- git -- : este comando sirve para ver que version de git tengo instalada 
+git -- version 
+
+2.- git init : se usa para iniciar un reporsitorio nuevo dentro de github 
+git init
+
+3.- git add : se usa para agregar todos los archivos al área de preparación, antes de guardarlos
+git add . 
+
+4.- git commit : este comando guarda los cambios realizados, a este se le agrega un mensaje que lo describe
+git commit -m "primer commit Js.trabajo"
+
+
+5.- git status: se utiliza para ver el estado actual del repositorio y saber en que archivos estamos "parados"
+git status 
+
+6.- git push : sirve para subir los cambios desde mi computador a github
+git push 
+git push -u origin main/master 
