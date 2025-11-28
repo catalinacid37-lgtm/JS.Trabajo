@@ -1,0 +1,53 @@
+@media only screen and (min-width: 576px)  {
+    h1 { font-size: 2rem ;}
+    /*  tablet pequeno */}
+
+@media only screen and (min-width: 992px) {
+    h1 { font-size: 3rem;}
+    /*estilo para escritorio*/ }
+#btnTop { 
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    padding: 10px 14px;
+}
+
+main div{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+   
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.price {
+    font-size: 1.0rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+p { 
+    color: black;
+    font-weight: bolder;
+}
+
+nav div{
+    background-color: rgb(225, 214, 236);
+}
+
+.section-productos h2 div { 
+    margin-left: 20%;
+    margin-bottom: 20%;
+    aspect-ratio: 4 / 3;
+    font-size: medium;
+
+}
+
+div h4{
+    font-size: smaller;
+    color: rgb(237, 197, 250);
+}
+
